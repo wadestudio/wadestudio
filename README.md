@@ -3,8 +3,6 @@
 당신의 일상에 스마트한 걸음을 옮기다. Wade AI
 
 
-![profile](https://cdn.discordapp.com/splashes/682083248872226816/a9ac54f72823838e364501aa3767d7f0.jpg)
-
 # 정보
 + 디스코드 - [discord.gg/sfA7dN5](https://discord.gg/sfA7dN5)
 + 대표 - [ariah-dev](https://github.com/ariah-dev)
